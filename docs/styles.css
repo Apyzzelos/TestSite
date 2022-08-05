@@ -6,3 +6,8 @@ h1{
     color: gold;
     margin-left: 20px;
 }
+
+.box{
+    width: 100vw;
+    height: 100vh;
+}
